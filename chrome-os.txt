@@ -1,6 +1,6 @@
-Mozilla/5.0 (X11; CrOS x86_64 15917.65.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.114 Safari/537.36
-Mozilla/5.0 (X11; CrOS armv7l 15917.65.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.114 Safari/537.36
-Mozilla/5.0 (X11; CrOS aarch64 15917.65.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.114 Safari/537.36
-Mozilla/5.0 (X11; CrOS x86_64 15917.65.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.114 Safari/537.36
-Mozilla/5.0 (X11; CrOS armv7l 15917.65.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.114 Safari/537.36
-Mozilla/5.0 (X11; CrOS aarch64 15917.65.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.114 Safari/537.36
+Mozilla/5.0 (X11; CrOS x86_64 15917.71.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.132 Safari/537.36
+Mozilla/5.0 (X11; CrOS armv7l 15917.71.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.132 Safari/537.36
+Mozilla/5.0 (X11; CrOS aarch64 15917.71.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.132 Safari/537.36
+Mozilla/5.0 (X11; CrOS x86_64 15917.71.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.132 Safari/537.36
+Mozilla/5.0 (X11; CrOS armv7l 15917.71.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.132 Safari/537.36
+Mozilla/5.0 (X11; CrOS aarch64 15917.71.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.132 Safari/537.36
