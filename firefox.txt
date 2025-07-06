@@ -1,17 +1,17 @@
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 14.7; rv:140.0) Gecko/20100101 Firefox/140.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 15.5; rv:140.0) Gecko/20100101 Firefox/140.0
 Mozilla/5.0 (X11; Linux i686; rv:140.0) Gecko/20100101 Firefox/140.0
 Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:140.0) Gecko/20100101 Firefox/140.0
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
 Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
-Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/140.0 Mobile/15E148 Safari/605.1.15
-Mozilla/5.0 (iPad; CPU OS 14_7_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/140.0 Mobile/15E148 Safari/605.1.15
-Mozilla/5.0 (iPod touch; CPU iPhone OS 14_7_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/140.0 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/140.0 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (iPad; CPU OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/140.0 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (iPod touch; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/140.0 Mobile/15E148 Safari/605.1.15
 Mozilla/5.0 (Android 16; Mobile; rv:140.0) Gecko/140.0 Firefox/140.0
 Mozilla/5.0 (Android 16; Mobile; LG-M255; rv:140.0) Gecko/140.0 Firefox/140.0
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 14.7; rv:140.0) Gecko/20100101 Firefox/140.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 15.5; rv:140.0) Gecko/20100101 Firefox/140.0
 Mozilla/5.0 (X11; Linux i686; rv:140.0) Gecko/20100101 Firefox/140.0
 Mozilla/5.0 (Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:140.0) Gecko/20100101 Firefox/140.0
